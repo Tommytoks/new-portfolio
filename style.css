@@ -1,0 +1,227 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap')
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: whitesmoke;
+    font-family: poppins, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+section{
+    width: 100%;
+   /* height: 104vh; */
+background-color: rgb(192, 226, 224);
+}
+.image1{
+    position: absolute;
+    right: 50px;
+    padding-top: 40px;
+}
+.image2{
+    margin-right: 700px;
+}
+.image{
+    margin-bottom: 10%;
+    margin-top: 62px;
+}
+
+.lift{
+    text-align: center;
+    color: blue;
+}
+
+.mine{
+    font-size: 50px;
+    font-family: dancing script, great vibes, poppins, 'Times New Roman', Times, serif;
+     padding-top: 100px;
+}
+
+.programmer{
+    font-family: montserrat, dancing script, great vibes, poppins, 'Times New Roman', Times, serif;
+    /* margin-top: 10px; */
+    font-size: 30px;
+}
+
+.myimage{
+    margin-top: 100px;
+  margin-left: 600px;
+  height: 20px;
+}
+
+.hello{
+    color: rgb(70, 202, 125);
+    font-family: montserrat;
+    text-align: center; 
+    font-size: 40px;
+    margin-top: 300px;
+}
+
+.text{
+    text-align: center;
+    margin-top: 30px;
+    font-family: serif;
+    }
+
+.Skills{
+    color: rgb(70, 202, 125);
+    font-family: montserrat;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    text-decoration: none;
+    font-size: 40px;
+}
+
+table{
+    margin-left: 250px;
+    font-family: poppins;
+}
+
+.webcod{ 
+    margin-bottom: 30px;
+ background-color: none;  */
+font-size: 18px;
+font-family: poppins;
+text-decoration: solid;
+color: rgb(70, 141, 136);
+}
+
+.table{
+    margin-left: 80px;
+}
+
+hr{
+    height: 5px;
+    background-color: rgb(37, 39, 44);
+    width: 60%;
+   margin-left: 280px;
+}
+.container{
+    width: 100%;
+    height: 150vh;
+    background-color: rgb(200, 206, 205);
+    align-items: center;
+    
+    /* margin: 0, 45px; */
+    }
+
+#portfolio{
+    color: green;
+    text-align: center;
+    text-decoration: underline cyan;
+    font-size: 20px;
+    font-family: serif;
+    padding-top: 70px;
+    /* padding-bottom: 10px; */
+}
+
+.album{
+     width: 400px;
+     margin: 10px;
+     display: inline-block;
+    height: 400px;
+    /* margin-bottom: 30px; */
+    transition: transform .1s;
+}
+
+
+#container{
+    align-items: center;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;   
+}
+
+.album:hover{
+    -ms-transform: scale(1.1)
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.dotted{
+    text-align: center;
+    margin-bottom: 50px;
+}
+/* .xxx{
+    float: right;
+} */
+
+.better{
+    margin-top: 45px;
+    
+}
+#bob{
+    margin-bottom: 45px;
+    text-align: center;
+}
+
+.getin{
+    font-size: 26px;
+    text-align: center;
+    color: rgb(89, 162, 190);
+    font-family: montserrat;
+}
+.lovecode{
+    margin-top: 40px;
+    color: rgb(89, 162, 190);
+    text-align: center;
+    text-decoration: solid;
+}
+#code{
+    color: black;
+    font-size: 15px;
+    text-align:center;
+    margin-top: 35px;
+    font-size: 12px;
+}
+
+.mail{
+    text-align: right;
+    margin-top: 35px;
+    margin-right: 450px;
+    font-family: poppins;
+    font-size: 24px;
+    color: red;
+    text-decoration: none;
+}
+button{
+    
+    border-radius: 4px;
+    background-color: greenyellow;
+    padding: 10px 20px;
+    border: none;
+    transition-duration: 0.4s;
+    text-decoration: none;
+}
+button:hover{
+    background-color: cyan;
+}
+button a{
+    text-decoration: solid;
+    color: white;
+    font-family: montserrat;
+}
+.down{
+    height: 150px;
+    width: auto;
+    background-color: rgb(13, 166, 172);
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 30px;
+} 
+
+.social{
+    margin-left: 50px;
+    color: white;
+    text-decoration: none;
+    font-size: 13px;
+    font-family: serif;
+}
+.cyr{
+    margin-top: 70px;
+    font-size: 10px;
+    color: white;
+}
